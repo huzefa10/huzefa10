@@ -31,4 +31,4 @@ Stanford ML Specialization · Deep Learning Specialization — Coursera / DeepLe
 
 ---
 
-[LinkedIn](https://linkedin.com/in/huzefa-merchant) · [Kaggle](https://www.kaggle.com/huzefam)
+[LinkedIn](https://linkedin.com/in/huzefa-merchant) · [Kaggle](https://www.kaggle.com/huzefamerchant)
